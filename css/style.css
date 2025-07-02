@@ -519,6 +519,10 @@ footer * {
 .footer-1--div {
   text-align: left;
 }
+
+footer a:hover {
+  color:#424242;
+}
 /*** End of footer section ***/
 
 /*** scrollbar section ***/
